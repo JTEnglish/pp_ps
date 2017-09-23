@@ -10,4 +10,4 @@ The “pp_ps” tool is a re-implementation of the Linux tool “ps” which lis
 | -com         |
 
 ## System Requirements
-This tool requires a linux based proc file structure to access the /proc/<pid>/stat and /proc/uptime files.
+This tool requires a linux based proc file structure to access the /proc/\<pid\>/stat and /proc/uptime files.
